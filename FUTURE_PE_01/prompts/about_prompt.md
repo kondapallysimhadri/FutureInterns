@@ -1,4 +1,4 @@
-# 04_About_Prompt.md
+# About_Prompt.md
 
 # About Page Generation Prompt
 ## Future Interns – Prompt Engineering Task 1
