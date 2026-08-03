@@ -1,4 +1,4 @@
-# 08_SEO_Prompt.md
+# SEO_Prompt.md
 
 # SEO Metadata Generation Prompt
 ## Future Interns – Prompt Engineering Task 1
