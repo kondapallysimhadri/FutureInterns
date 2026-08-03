@@ -154,8 +154,6 @@ FUTURE_PE_01/
 │   ├── contact_prompt.md
 │   ├── seo_prompt.md
 │   ├── blog_prompt.md
-│   ├── ai_input_blueprint.md
-│   ├── master_system_prompt.md
 │   └── master_prompt.md
 
 ├── outputs/
