@@ -1,4 +1,4 @@
-# 05_Doctors_Prompt.md
+# Doctors_Prompt.md
 
 # Doctor Profiles Generation Prompt
 ## Future Interns – Prompt Engineering Task 1
