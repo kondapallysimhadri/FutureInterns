@@ -1,4 +1,4 @@
-# 01_Homepage_Prompt.md
+# Homepage_Prompt.md
 
 # Homepage Generation Prompt
 ## Future Interns – Prompt Engineering Task 1
