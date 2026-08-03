@@ -1,4 +1,4 @@
-# 09_Blog_Prompt.md
+# Blog_Prompt.md
 
 # Blog Article Generation Prompt
 ## Future Interns – Prompt Engineering Task 1
