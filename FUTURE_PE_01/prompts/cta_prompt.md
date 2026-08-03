@@ -1,4 +1,4 @@
-# 03_CTA_Prompt.md
+# CTA_Prompt.md
 
 # Call-to-Action (CTA) Generation Prompt
 ## Future Interns – Prompt Engineering Task 1
