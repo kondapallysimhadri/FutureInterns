@@ -1,4 +1,4 @@
-# 10_Master_Prompt.md
+# Master_Prompt.md
 
 # Master Website Generation Prompt
 ## Future Interns – Prompt Engineering Task 1
