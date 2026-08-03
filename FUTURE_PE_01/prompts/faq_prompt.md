@@ -1,4 +1,4 @@
-# 06_FAQ_Prompt.md
+# FAQ_Prompt.md
 
 # FAQ Page Generation Prompt
 ## Future Interns – Prompt Engineering Task 1
