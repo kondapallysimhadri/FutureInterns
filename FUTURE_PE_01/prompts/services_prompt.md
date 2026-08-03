@@ -1,4 +1,4 @@
-# 02_Services_Prompt.md
+# Services_Prompt.md
 
 # Services Page Generation Prompt
 ## Future Interns – Prompt Engineering Task 1
